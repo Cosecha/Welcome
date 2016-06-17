@@ -8,7 +8,7 @@ Don't want to read much more and just hop in? [Take on one of these newbie frien
 
 ## How we work
 
-We organize around [projects on Github](https://github.com/Cosecha). Subteams of the dev team are therefore just project Circles. So, for example, if you want to be a part of the website circle, just head over to [the website repository](https://github.com/BrandNewCongress/cosecha.github.io) and start working there! If you want to know what all the available projects are to work on, [take a look at our main projects page](https://github.com/Cosecha).
+We organize around [projects on Github](https://github.com/Cosecha). Subteams of the dev team are therefore just project Circles. So, for example, if you want to be a part of the website circle, just head over to [the website repository](https://github.com/Cosecha/cosecha.github.io) and start working there! If you want to know what all the available projects are to work on, [take a look at our main projects page](https://github.com/Cosecha).
 
 Whenever we have a new feature we want to implement or a bug we want to fix, we create an issue in the corresponding Github repository and discuss the issue there. We use labels on Github issues to track work. The labels we use across all our projects are:
 
