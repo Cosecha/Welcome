@@ -18,9 +18,8 @@ Whenever we have a new feature we want to implement or a bug we want to fix, we 
 
 There may be other labels depending on the complexity of the project, but all projects should have these labels.
 
-## How to contribute
+## [How to contribute](https://github.com/Cosecha/Welcome/wiki/How-to-Contribute)
 
-Help us build this process out!
 
 ## Our technology stack
 
