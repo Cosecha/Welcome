@@ -1,6 +1,6 @@
 # Welcome to the Cosecha Dev Village
 
-[![Join the chat at https://gitter.im/Cosecha/Welcome](https://badges.gitter.im/Cosecha/Welcome.svg)](https://gitter.im/Cosecha/Welcome?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at http://laplaza.movimientocosecha.com/channel/cosecha](https://dl.dropboxusercontent.com/u/16972085/cosecha/Welcome.svg)](http://laplaza.movimientocosecha.com/channel/cosecha)
 
 This is the official GitHub organization for Movimiento Cosecha. The dev village at Cosecha is made of developers and designers that help all the other teams (circles or villages) in the organization work better. All of the technology that we develop is created as open source projects by volunteers and housed in the [Cosecha GitHub repo](https://github.com/Cosecha).
 
