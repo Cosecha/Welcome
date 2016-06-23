@@ -39,19 +39,25 @@ For projects that have no code yet, the relevant issues are on this repo! So if 
 
 ## How our team is structured
 
-Right now, we have a core team of developers (something like the Meteor Development Group for Meteor or the core team on most open source projects) who are responsible for:
+We want to create a core team of developers (something like the Meteor Development Group for Meteor or the core team on most open source projects) who are responsible for:
 
 * coming up with the tech plan
 * triaging issues every week
-* keeping up with the work that all the other teams are doing
+* keeping up with the work that all the other circle/villages are doing
 * taking on urgent work that comes up
 * onboarding new developers
-* and being responsible for the maintenance and improvement of specific projects in this organization.
+* being responsible for the maintenance and improvement of specific projects in this organization.
 
 We'd like to grow this core team, but we also want to make it possible to be effective even if you cannot commit so much time or take on so much responsibility. So we want everyone who wants to get involved to do so by jumping into our issues, getting a sense of what we're working on, and committing some code! If you are able to put in some work, feel you have a bit of time to commit, and want to take on more responsibility, let one of the current core team members know in the [Plaza](http://laplaza.movimientocosecha.com/channel/cosecha) and we'd love to have you on board! The current people on the core team are:
 
 1. @celsom3
 2. @DynamicMetaFlow
+
+## Contributor Covenant
+
+All members of this organization are committed to making sure this project provides a safe space for people of all genders, races, and levels of programmer proficiency. Everyone has something valuable to contribute.
+
+We will also enforce our [Contributor Covenant Code of Conduct](https://github.com/Cosecha/contributor_covenant) should you engage in behaviors not in line with the project's, and Movimiento Cosecha's values.
 
 ## Interested in joining a team other than the dev team?
 
