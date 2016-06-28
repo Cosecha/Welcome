@@ -1,6 +1,6 @@
 # Welcome to the Cosecha Dev Village
 
-[![Join the chat at http://laplaza.movimientocosecha.com/channel/cosecha](https://dl.dropboxusercontent.com/u/16972085/cosecha/Welcome.svg)](http://laplaza.movimientocosecha.com/channel/cosecha)
+[![Join the chat at http://laplaza.movimientocosecha.com/channel/CosechaNetwork](https://dl.dropboxusercontent.com/u/16972085/cosecha/Welcome.svg)](http://laplaza.movimientocosecha.com/channel/CosechaNetwork)
 
 This is the official GitHub organization for Movimiento Cosecha. The dev village at Cosecha is made of developers and designers that help all the other teams (circles or villages) in the organization work better. All of the technology that we develop is created as open source projects by volunteers and housed in the [Cosecha GitHub repo](https://github.com/Cosecha).
 
@@ -31,7 +31,7 @@ All of Cosecha's data exists in our Action Network CRM. As a result, tools we us
 
 ## Design projects
 
-We want to use Github to organize design projects as well, but we need designers interested in creating a Designer Village or Circle (team). If you are interested drop by our forum ([Cosecha Plaza](http://laplaza.movimientocosecha.com/channel/cosecha)) and show us some of your work!
+We want to use Github to organize design projects as well, but we need designers interested in creating a Designer Village or Circle (team). If you are interested drop by our forum ([Cosecha Plaza](http://laplaza.movimientocosecha.com/channel/CosechaNetwork)) and show us some of your work!
 
 ## How to propose and hear about new projects
 
@@ -48,7 +48,7 @@ We want to create a core team of developers (something like the Meteor Developme
 * onboarding new developers
 * being responsible for the maintenance and improvement of specific projects in this organization.
 
-We'd like to grow this core team, but we also want to make it possible to be effective even if you cannot commit so much time or take on so much responsibility. So we want everyone who wants to get involved to do so by jumping into our issues, getting a sense of what we're working on, and committing some code! If you are able to put in some work, feel you have a bit of time to commit, and want to take on more responsibility, let one of the current core team members know in the [Plaza](http://laplaza.movimientocosecha.com/channel/cosecha) and we'd love to have you on board! The current people on the core team are:
+We'd like to grow this core team, but we also want to make it possible to be effective even if you cannot commit so much time or take on so much responsibility. So we want everyone who wants to get involved to do so by jumping into our issues, getting a sense of what we're working on, and committing some code! If you are able to put in some work, feel you have a bit of time to commit, and want to take on more responsibility, let one of the current core team members know in the [Plaza](http://laplaza.movimientocosecha.com/channel/CosechaNetwork) and we'd love to have you on board! The current people on the core team are:
 
 1. @celsom3
 2. @DynamicMetaFlow
@@ -65,4 +65,4 @@ We will also enforce our [Contributor Covenant Code of Conduct](https://github.c
 
 ## Questions? Comments? Problems?
 
-If you think we need to add anything else to this README, open a pull request! If you have a question about a project, comment on an existing issue or create a new issue on this repository!  If you had any trouble with this process, open an issue on this repository as well! And if you just want to say hi or have any general questions, join us on [Plaza](http://laplaza.movimientocosecha.com/channel/cosecha)!
+If you think we need to add anything else to this README, open a pull request! If you have a question about a project, comment on an existing issue or create a new issue on this repository!  If you had any trouble with this process, open an issue on this repository as well! And if you just want to say hi or have any general questions, join us on [Plaza](http://laplaza.movimientocosecha.com/channel/CosechaNetwork)!
